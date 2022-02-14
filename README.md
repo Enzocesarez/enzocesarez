@@ -1,7 +1,7 @@
 ### Oi ! Eu sou o Enzo César.
 
-- 🔭 Técnico em Informática.
-- 📖 Cursando Bacharelado em Engenharia Elétrica
+- 🔭 Iniciando a carreira de Desenvovimento.
+- 📖 Cursando Bacharelado em Engenharia Elétrica (CEFET - MG) /Cursando Téc. Infórmatica (EPSA)
 - 🌱 Estudando Dart/Flutter, Linguagem C. 
 
 
