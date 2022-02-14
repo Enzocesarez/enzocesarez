@@ -1,6 +1,6 @@
 ### Oi ! Eu sou o Enzo César.
 
-- 🔭 Iniciando a carreira de Desenvovimento.
+- 🔭 Iniciando a carreira de Desenvolvimento.
 - 📖 Cursando Bacharelado em Engenharia Elétrica (CEFET - MG) /Cursando Téc. Infórmatica (EPSA)
 - 🌱 Estudando Dart/Flutter, Linguagem C. 
 
