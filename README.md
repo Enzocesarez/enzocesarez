@@ -2,7 +2,8 @@
 
 - 🔭 Iniciando a carreira de Desenvolvimento.
 - 📖 Cursando Bacharelado em Engenharia Elétrica (CEFET - MG) /Cursando Téc. Infórmatica (EPSA)
-- 🌱 Estudando Dart/Flutter, Linguagem C. 
+- 🌱 Estudando Dart/Flutter, Linguagem C. Bons conhecimentos em HTML e CSS.
+- 📡 Conhecimentos em redes e manutenção de computadores.
 
 
 <div align="center">
