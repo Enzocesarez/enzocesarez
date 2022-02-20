@@ -1,8 +1,8 @@
 ### Oi ! Eu sou o Enzo César.
 
 - 🔭 Iniciando a carreira de Desenvolvimento.
-- 📖 Cursando Bacharelado em Engenharia Elétrica (CEFET - MG) /Cursando Téc. Infórmatica (EPSA)
-- 🌱 Estudando Dart/Flutter, Linguagem C. Bons conhecimentos em HTML e CSS.
+- 📖 Cursando Bacharelado em Engenharia Elétrica (CEFET - MG) (2021/2026) / Ultima semestre cursando Téc. Infórmatica (EPSA) (2021-2022)
+- 🌱 Estudando Dart/Flutter, Linguagem C, Bootstrap. Conhecimentos intermediario em HTML e CSS.
 - 📡 Conhecimentos em redes e manutenção de computadores.
 
 
@@ -16,6 +16,8 @@
   <img align="center" alt="Enzo-Flutter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />>
   <img align="center" alt="Enzo-Dart" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />>
   <img align="center" alt="Enzo-C" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />>
+  <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>>
+  <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>>
   </div>
    
   ##
