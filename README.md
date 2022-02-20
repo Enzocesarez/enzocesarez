@@ -5,6 +5,9 @@
 - 🌱 Estudando Dart/Flutter, Linguagem C, Bootstrap. Conhecimentos intermediario em HTML e CSS.
 - 📡 Conhecimentos em redes e manutenção de computadores.
 - 🕹️ Interesse em atuar na Produção de softwares.
+- 🖥️ "A tecnologia move o mundo." Steve jobs, inventor e fundador da Apple.
+
+Steve Jobs
 
 <div alingn = "right">
   <img height="80em" src ="https://user-images.githubusercontent.com/99221454/154864198-2fb2bd39-7ffb-406b-91a7-01d13eeb80f2.png"/>
