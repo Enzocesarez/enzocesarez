@@ -4,7 +4,7 @@
 - 📖 Cursando Bacharelado em Engenharia Elétrica (CEFET - MG) (2021/2026) / Ultima semestre cursando Téc. Infórmatica (EPSA) (2021-2022)
 - 🌱 Estudando Dart/Flutter, Linguagem C, Bootstrap. Conhecimentos intermediario em HTML e CSS.
 - 📡 Conhecimentos em redes e manutenção de computadores.
--  Interesse em atuar na Produção de softwares.
+- 🕹️ Interesse em atuar na Produção de softwares.
 
 <div alingn = "right">
   <img height="80em" src ="https://user-images.githubusercontent.com/99221454/154864198-2fb2bd39-7ffb-406b-91a7-01d13eeb80f2.png"/>
