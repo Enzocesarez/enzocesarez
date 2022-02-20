@@ -4,9 +4,13 @@
 - 📖 Cursando Bacharelado em Engenharia Elétrica (CEFET - MG) (2021/2026) / Ultima semestre cursando Téc. Infórmatica (EPSA) (2021-2022)
 - 🌱 Estudando Dart/Flutter, Linguagem C, Bootstrap. Conhecimentos intermediario em HTML e CSS.
 - 📡 Conhecimentos em redes e manutenção de computadores.
+-  Interesse em atuar na Produção de softwares.
 
-
-<div align="center">
+<div alingn = "right">
+  <img height="80em" src ="https://user-images.githubusercontent.com/99221454/154864198-2fb2bd39-7ffb-406b-91a7-01d13eeb80f2.png"/>
+  </div>
+  
+  <div align="center">
   <a href="https://github.com/enzocesarez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzocesarez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocesarez&layout=compact&langs_count=7&theme=dark"/>
