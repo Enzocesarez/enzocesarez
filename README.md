@@ -1,7 +1,7 @@
 ### Oi ! Eu sou o Enzo César.
 
                                         
-                                             # SEJA BEM VINDO AO MEU PERFIL GIT HUB !!! #
+                                                                   # SEJA BEM VINDO !!! #
                                              
 - 📖 Cursando Bacharelado em Engenharia Elétrica (CEFET - MG) (2021/2026) / Ultima semestre cursando Téc. Infórmatica (EPSA) (2021-2022)
 - 🌱 Estudando Dart/Flutter, Linguagem C, Bootstrap, HTML e CSS.
