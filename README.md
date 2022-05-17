@@ -7,7 +7,7 @@
 - 🌱 Estudando Dart/Flutter, Linguagem C, Java, Bootstrap, HTML e CSS.
 - 📡 Conhecimentos avançados em redes e manutenção de computadores.
 - 🕹️ Interesse em atuar na Produção de softwares.
-- 🖥️ "A tecnologia move o mundo." Steve jobs, ex co-fundador, presidente e diretor executivo da Apple Inc.
+- 🖥️ "A tecnologia move o mundo." Steve jobs.
 
 ##
 
