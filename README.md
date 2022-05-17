@@ -1,13 +1,13 @@
 ### Oi ! Eu sou o Enzo César.
 
                                         
-                                                             # SEJA BEM VINDO !!! #
+                                                           # SEJA BEM VINDO !!! #
                                              
 - 📖 Cursando Bacharelado em Engenharia Elétrica (CEFET - MG) (2021/2026) / Ultima semestre cursando Téc. Infórmatica (EPSA) (2021-2022)
-- 🌱 Estudando Dart/Flutter, Linguagem C, Bootstrap, HTML e CSS.
+- 🌱 Estudando Dart/Flutter, Linguagem C, Java, Bootstrap, HTML e CSS.
 - 📡 Conhecimentos avançados em redes e manutenção de computadores.
 - 🕹️ Interesse em atuar na Produção de softwares.
-- 🖥️ "A tecnologia move o mundo." Steve jobs, inventor e fundador da Apple.
+- 🖥️ "A tecnologia move o mundo." Steve jobs, co-fundador, presidente e diretor executivo da Apple Inc.
 
 ##
 
